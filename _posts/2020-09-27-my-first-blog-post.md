@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
 # ECMA Script
 
 It is a standard version of JavaScript ECMA script is another fancy name for JavaScript. ECMAScript 6 is the latest version and was released in 2015.
